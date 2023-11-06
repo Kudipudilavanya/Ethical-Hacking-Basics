@@ -1,0 +1,67 @@
+Here are some commonly used Here are some commonly used tools and software in ethical hacking and cybersecurity:
+
+Nmap: A powerful open-source network scanner used for network discovery and security auditing.
+
+Wireshark: A network protocol analyzer that captures and inspects data on a network.
+
+Metasploit: An exploitation framework that helps ethical hackers find and exploit vulnerabilities in systems.
+
+Burp Suite: A web vulnerability scanner used for web application security testing.
+
+Kali Linux: A popular Linux distribution designed for penetration testing and ethical hacking, equipped with a wide range of hacking tools.
+
+Snort: An open-source intrusion detection system (IDS) and intrusion prevention system (IPS) that detects and prevents network threats.
+
+Hydra: A password-cracking tool that can perform brute-force and dictionary attacks.
+
+Aircrack-ng: A suite of tools for assessing Wi-Fi network security, including WEP and WPA-PSK keys.
+
+Cain and Abel: A password recovery tool for Windows, which can also perform dictionary attacks on various protocols.
+
+OpenVAS: The Open Vulnerability Assessment System, an open-source vulnerability scanner for identifying security issues in systems and networks.
+
+Nessus: A widely used vulnerability scanner that helps identify vulnerabilities, misconfigurations, and other security issues.
+
+Ghidra: An open-source software reverse engineering tool for analyzing and disassembling binary code.
+
+Hashcat: A tool for advanced password recovery through brute-force, dictionary, and hybrid attacks.
+
+OWASP ZAP: The Zed Attack Proxy is an open-source security tool for finding vulnerabilities in web applications.
+
+WireShark: A network protocol analyzer that allows you to capture and inspect data on a network.
+
+These tools are used by ethical hackers and security professionals to test the security of systems and identify vulnerabilities. Keep in mind that using these tools for any unauthorized or malicious activities is illegal and unethical. It's important to always act within the boundaries of the law and with proper authorization when conducting ethical hacking or cybersecurity assessments.:
+
+Nmap: A powerful open-source network scanner used for network discovery and security auditing.
+
+Wireshark: A network protocol analyzer that captures and inspects data on a network.
+
+Metasploit: An exploitation framework that helps ethical hackers find and exploit vulnerabilities in systems.
+
+Burp Suite: A web vulnerability scanner used for web application security testing.
+
+Kali Linux: A popular Linux distribution designed for penetration testing and ethical hacking, equipped with a wide range of hacking tools.
+
+Snort: An open-source intrusion detection system (IDS) and intrusion prevention system (IPS) that detects and prevents network threats.
+
+Hydra: A password-cracking tool that can perform brute-force and dictionary attacks.
+
+Aircrack-ng: A suite of tools for assessing Wi-Fi network security, including WEP and WPA-PSK keys.
+
+Cain and Abel: A password recovery tool for Windows, which can also perform dictionary attacks on various protocols.
+
+OpenVAS: The Open Vulnerability Assessment System, an open-source vulnerability scanner for identifying security issues in systems and networks.
+
+Nessus: A widely used vulnerability scanner that helps identify vulnerabilities, misconfigurations, and other security issues.
+
+Ghidra: An open-source software reverse engineering tool for analyzing and disassembling binary code.
+
+Hashcat: A tool for advanced password recovery through brute-force, dictionary, and hybrid attacks.
+
+OWASP ZAP: The Zed Attack Proxy is an open-source security tool for finding vulnerabilities in web applications.
+
+WireShark: A network protocol analyzer that allows you to capture and inspect data on a network.
+
+These tools are used by ethical hackers and security professionals to test the security of systems and identify vulnerabilities.
+Keep in mind that using these tools for any unauthorized or malicious activities is illegal and unethical.
+It's important to always act within the boundaries of the law and with proper authorization when conducting ethical hacking or cybersecurity assessments.

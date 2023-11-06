@@ -1,0 +1,23 @@
+Certainly, I can provide information on common cyberattacks. Understanding these attacks is important for anyone interested in cybersecurity, including those learning about it. Here are some common cyberattacks:
+
+Phishing: Phishing is a type of attack where cybercriminals impersonate legitimate entities to trick individuals into revealing sensitive information such as usernames, passwords, and credit card details.
+
+Malware: Malware, short for malicious software, includes viruses, Trojans, worms, and ransomware. These programs can harm your computer, steal your data, or hold it hostage.
+
+DDoS Attacks: Distributed Denial of Service (DDoS) attacks flood a target system or network with excessive traffic, causing it to become overwhelmed and unavailable.
+
+SQL Injection: This attack exploits vulnerabilities in a website or application to manipulate a database by injecting malicious SQL queries, potentially gaining unauthorized access to data.
+
+Man-in-the-Middle (MitM) Attack: In a MitM attack, an attacker intercepts communication between two parties to eavesdrop, modify, or inject malicious content.
+
+Cross-Site Scripting (XSS): XSS attacks target web applications by injecting malicious scripts into websites viewed by other users. This can lead to data theft or unauthorized actions on the victim's behalf.
+
+Password Attacks: These include techniques like brute force and dictionary attacks, attempting to crack passwords to gain unauthorized access to accounts.
+
+Social Engineering: Cybercriminals use psychological manipulation to deceive individuals into revealing confidential information. This can include impersonating a trusted person or creating a fake emergency.
+
+Drive-By Downloads: Victims unknowingly download malware while visiting a compromised website. These downloads can occur without user consent or knowledge.
+
+Zero-Day Exploits: These are attacks that take advantage of security vulnerabilities that are not yet known or patched by the software developers.
+
+To defend against these attacks and develop a career in cybersecurity, it's essential to learn about web technologies like HTML, CSS, JavaScript, and Python, as well as how they can be used to secure systems and applications. If you have specific questions about any of these topics or need more information, feel free to ask.
